@@ -1,17 +1,17 @@
 {
- "version": 1,
+ "version": 2,
  "min_build": 1,
- "notes": "Primera version con actualizacion automatica y mandos tactiles",
+ "notes": "Prueba de actualizacion automatica",
  "pc": {
-  "url": "https://github.com/jonaalex99-code/gallinero-loco-descargas/releases/download/v1/GallineroLoco-pc.pck",
-  "md5": "5be8370be783ad637368c5d4e080c854",
-  "size": 80045848
+  "url": "https://github.com/jonaalex99-code/gallinero-loco-descargas/releases/download/v2/GallineroLoco-pc.pck",
+  "md5": "4cb2f647b9eddda789ce5e490343fea2",
+  "size": 80045944
  },
  "android": {
-  "url": "https://github.com/jonaalex99-code/gallinero-loco-descargas/releases/download/v1/GallineroLoco-android.pck",
-  "md5": "205be3f1768e626fb4375de5220b1694",
-  "size": 80045848
+  "url": "https://github.com/jonaalex99-code/gallinero-loco-descargas/releases/download/v2/GallineroLoco-android.pck",
+  "md5": "33fde106885c559a6144c9dc7791c371",
+  "size": 80045944
  },
- "apk": "https://github.com/jonaalex99-code/gallinero-loco-descargas/releases/download/v1/GallineroLoco.apk",
- "zip": "https://github.com/jonaalex99-code/gallinero-loco-descargas/releases/download/v1/GallineroLoco-PC.zip"
+ "apk": "https://github.com/jonaalex99-code/gallinero-loco-descargas/releases/download/v2/GallineroLoco.apk",
+ "zip": "https://github.com/jonaalex99-code/gallinero-loco-descargas/releases/download/v2/GallineroLoco-PC.zip"
 }
